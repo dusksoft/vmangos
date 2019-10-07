@@ -22,3 +22,7 @@ This project is an independent continuation of the Elysium / LightsHope codebase
 - [Discord](https://discord.gg/rcCKnCw)
 - [Script Editor](https://github.com/brotalnia/scripteditor)
 - [Script Converter](https://github.com/vmangos/ScriptConverter)
+
+### 源码交流
+
+源码备份来源vmangos，QQ交流群：491767664
